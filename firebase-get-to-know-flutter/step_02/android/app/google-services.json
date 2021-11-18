@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749344027787",
+    "project_id": "birley-clubs-dev",
+    "storage_bucket": "birley-clubs-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749344027787:android:5396bb1658f46cf700508e",
+        "android_client_info": {
+          "package_name": "com.birley.club.test.firebase_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749344027787-fa8sqtve5d9e22apgs299s73qup4c003.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaraHTLa2KaC3V-RB6ZD34HCvPukiefBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749344027787-fa8sqtve5d9e22apgs299s73qup4c003.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
